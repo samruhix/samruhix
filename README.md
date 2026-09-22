@@ -20,9 +20,9 @@
 
 <img align="right" src="./assets/illustration.png" width="270" alt="Developer Illustration" />
 
-Hey! I'm **Sami**, a Computer Science graduate with hands-on experience spanning **full-stack web development**, **object-oriented systems**, **telephony/voice AI workflows**, and **cybersecurity fundamentals**.
+Hey! I'm **Sami**, a Computer Science graduate with hands-on experience spanning **full-stack web development**, **object-oriented systems**, and **cybersecurity fundamentals**.
 
-I learn by constructing the machine from first principles—whether designing GoF architectural patterns in Java, optimizing graph algorithms (BFS/DFS) in Python, wiring real-time WebSockets and SSE streams, or auditing network sockets at the OS kernel level.
+
 
 - 💻 **Full-Stack & Web**: Building production-ready applications across the **MERN stack** (MongoDB, Express, React, Node.js) and modern PHP/Laravel APIs.
 - ⚙️ **Systems & Backend**: Robust object-oriented systems in **Java** (Javalin, Maven, Jackson), algorithm design, and functional programming in **Haskell**.
