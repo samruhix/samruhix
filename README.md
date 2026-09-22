@@ -2,7 +2,7 @@
   <img src="./assets/cc.gif" alt="Cyberpunk Systems Battlestation" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sami Sabil</h1>
+<h1 align="center">Hi 👋, I'm Sam</h1>
 
 <h3 align="center">Systems Architecture • Cybersecurity • Cognitive Optimization</h3>
 
