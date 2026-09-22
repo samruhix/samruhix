@@ -50,7 +50,11 @@ I learn by constructing the machine from first principles—from C pointers and 
 <h2 align="center">💻 Tech Stack & Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,powershell,docker,linux,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,c,nodejs,express,html,css,bash,powershell,docker,linux,git,github,vscode,aws&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" title="Pandas Data Analysis" />
 </p>
 
 ---
