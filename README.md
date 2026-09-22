@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-hands.png" alt="Creation of Adam Pixel Banner" width="100%">
+  <img src="./assets/cc.gif" alt="Cyberpunk Systems Battlestation" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sami Sabil</h1>
