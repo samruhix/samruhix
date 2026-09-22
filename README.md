@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
 
-<h3 align="center">Systems Architecture • Cybersecurity • Cognitive Optimization</h3>
+<h3 align="center">Software Engineer • Systems Architecture • Full-Stack • Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%3E+Architecting+Resilient+Distributed+Systems;%3E+Dissecting+Network+Packets+%26+Raw+Sockets;%3E+Rewiring+The+Brain+Through+Deliberate+Code;%3E+Stoic+Discipline+%2B+Radical+Ownership" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=%3E+Full-Stack+%26+Systems+Software+Engineer;%3E+MERN+Stack+%E2%80%A2+Java+OOP+%E2%80%A2+Python+Algorithms;%3E+REST+APIs+%E2%80%A2+WebSockets+%E2%80%A2+SSE+%E2%80%A2+Telephony+(Asterisk);%3E+Software+Quality%3A+JUnit+%E2%80%A2+Mockito+%E2%80%A2+JaCoCo;%3E+Stoic+Discipline+%2B+Cognitive+Optimization" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>"Building systems from bare-metal memory to cloud architecture, guided by Stoic resilience and neuroscience."</i>
+  <i>"Building resilient software from low-level memory and protocols up to modern distributed architectures, grounded in Stoic focus and engineering excellence."</i>
 </p>
 
 ---
@@ -20,16 +20,112 @@
 
 <img align="right" src="./assets/illustration.png" width="270" alt="Developer Illustration" />
 
-Hey! I'm **Sami**, a builder obsessed with **systems architecture**, **cybersecurity**, and understanding how computing machines operate under the hood.
+Hey! I'm **Sami**, a Computer Science graduate with hands-on experience spanning **full-stack web development**, **object-oriented systems**, **telephony/voice AI workflows**, and **cybersecurity fundamentals**.
 
-I learn by constructing the machine from first principles—from C pointers and raw sockets up to hardened containerized enclaves.
+I learn by constructing the machine from first principles—whether designing GoF architectural patterns in Java, optimizing graph algorithms (BFS/DFS) in Python, wiring real-time WebSockets and SSE streams, or auditing network sockets at the OS kernel level.
 
-- 🛡️ **Cybersecurity**: Network reconnaissance, socket programming, packet dissectors, and defense-in-depth architecture.
-- ⚙️ **Systems**: Low-level memory layouts (Stack vs Heap), OS syscalls, Linux, and Docker network isolation.
-- 🔬 **Neuroscience**: Ultradian rhythms, cognitive stamina, dopamine baseline regulation, and active-recall builds.
-- 🎬 **Filmmaking**: Directing, visual storytelling, and color grading in DaVinci Resolve.
+- 💻 **Full-Stack & Web**: Building production-ready applications across the **MERN stack** (MongoDB, Express, React, Node.js) and modern PHP/Laravel APIs.
+- ⚙️ **Systems & Backend**: Robust object-oriented systems in **Java** (Javalin, Maven, Jackson), algorithm design, and functional programming in **Haskell**.
+- 🛡️ **Cybersecurity & Networking**: Socket programming, TCP handshakes, packet analysis, defense-in-depth, and containerized network isolation (**Docker**).
+- 🧪 **Software Quality & Testing**: Dedicated to clean code, test-driven reliability, and metrics using **JUnit**, **Mockito**, and **JaCoCo** code coverage.
+- 🤖 **Automation & Telephony**: Engineered AI voice-agent workflows with **n8n**, **OpenAI APIs**, and **Asterisk / PJSIP** VoIP telephony.
+- 🎬 **Cinematography & Mindset**: Exploring the intersection of technical mastery, **neuroscience** (ultradian focus, dopamine regulation), and **Stoic resilience**.
 
 <br clear="right"/>
+
+---
+
+<h2 align="center">💻 Technical Arsenal</h2>
+
+### 🌐 Programming & Scripting Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,haskell,php,c,bash,powershell,html,css" alt="Languages" />
+</p>
+
+### ⚡ Frameworks, Full-Stack & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,vite" alt="Frameworks" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javalin-000000?style=for-the-badge&logo=java&logoColor=orange" height="38" alt="Javalin" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="38" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" height="38" alt="Leaflet" />
+</p>
+
+### 🗄️ Databases, Persistence & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases" />
+  &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" title="Pandas Data Analysis" />
+  </a>
+</p>
+
+### 📡 Protocols, Real-Time & Communications
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="36" alt="REST" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="36" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Server--Sent_Events_(SSE)-3B82F6?style=for-the-badge" height="36" alt="SSE" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemqtt&logoColor=white" height="36" alt="MQTT" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="36" alt="JWT" />
+  <img src="https://img.shields.io/badge/Asterisk_/_PJSIP-E05A47?style=for-the-badge&logo=asterisk&logoColor=white" height="36" alt="Asterisk" />
+</p>
+
+### 🧪 Quality Assurance, DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,vscode" alt="Tools" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="38" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-C53030?style=for-the-badge" height="38" alt="Mockito" />
+  <img src="https://img.shields.io/badge/JaCoCo_Coverage-8B5CF6?style=for-the-badge" height="38" alt="JaCoCo" />
+  <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="38" alt="n8n" />
+</p>
+
+---
+
+<h2 align="center">📂 Featured Projects & Highlights</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ SonoMap</h3>
+      <p><b>Interactive Audio Mapping Application</b></p>
+      <ul>
+        <li>Interactive geospatial audio visualization web application.</li>
+        <li>Built with <b>React</b>, <b>React Leaflet</b>, <b>Recharts</b>, and <b>Axios</b>.</li>
+        <li>Dynamic audio pinpointing, responsive UI, and custom sound playback pipelines.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📞 Laprophan Voice AI & Telephony</h3>
+      <p><b>Enterprise Telephony & Workflow Integration</b></p>
+      <ul>
+        <li>Integrated AI voice-agent pipelines using <b>Laravel REST APIs</b> and <b>n8n</b>.</li>
+        <li>Telephony handling via <b>Asterisk / PJSIP</b> and <b>OpenAI APIs</b>.</li>
+        <li>Automated intelligent call routing, prompt processing, and webhook responses.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ MaVille (SPTM)</h3>
+      <p><b>Object-Oriented City Services System</b></p>
+      <ul>
+        <li>Architected using <b>Java</b>, Gang of Four (GoF) design patterns, and UML modeling.</li>
+        <li>Structured persistence using <b>Jackson (JSON ↔ Java)</b>.</li>
+        <li>Comprehensive unit testing with <b>JUnit</b>, <b>Mockito</b>, and <b>JaCoCo</b> metrics.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 Titan Net-Scan</h3>
+      <p><b>High-Performance Network Recon Tool</b></p>
+      <ul>
+        <li>Multi-threaded TCP port scanner built in <b>Python</b> with raw OS sockets.</li>
+        <li>Sweeps 1,024 system ports in seconds using <b>50 concurrent worker threads</b>.</li>
+        <li>Integrated banner grabbing to identify active services and version headers.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,19 +142,6 @@ I learn by constructing the machine from first principles—from C pointers and 
 </p>
 
 ---
-
-<h2 align="center">💻 Tech Stack & Arsenal</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,nodejs,express,html,css,bash,powershell,docker,linux,git,github,vscode,aws&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" title="Pandas Data Analysis" />
-</p>
-
----
-
 
 <h2 align="center">🏛️ Operating Philosophy</h2>
 
