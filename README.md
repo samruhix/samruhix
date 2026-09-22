@@ -24,8 +24,6 @@ Hey! I'm **Sami**, a builder obsessed with **systems architecture**, **cybersecu
 
 I learn by constructing the machine from first principles—from C pointers and raw sockets up to hardened containerized enclaves.
 
-Currently documenting a 1-year transformation through the lens of **Stoic philosophy, neuroplasticity, and technical craft** in a short documentary (*"Rewired: One Year Inside"*).
-
 - 🛡️ **Cybersecurity**: Network reconnaissance, socket programming, packet dissectors, and defense-in-depth architecture.
 - ⚙️ **Systems**: Low-level memory layouts (Stack vs Heap), OS syscalls, Linux, and Docker network isolation.
 - 🔬 **Neuroscience**: Ultradian rhythms, cognitive stamina, dopamine baseline regulation, and active-recall builds.
@@ -57,23 +55,6 @@ Currently documenting a 1-year transformation through the lens of **Stoic philos
 
 ---
 
-<h2 align="center">📊 GitHub Pulse</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=samruhix&theme=city_lights&hide_border=false&border_radius=8" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=samruhix&show_icons=true&theme=city_lights&hide_border=false&border_radius=8" height="150"/>
-</div>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samruhix&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph" width="95%"/>
-</p>
-
----
 
 <h2 align="center">🏛️ Operating Philosophy</h2>
 
