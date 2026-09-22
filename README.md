@@ -1,58 +1,86 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner-hands.png" alt="Creation of Adam Pixel Banner" width="100%">
+</p>
 
-# 🏛️ Sami Sabil
-### Systems Architecture • Cybersecurity • Neuroscience • Filmmaking
+<h1 align="center">Hi 👋, I'm Sami Sabil</h1>
 
-*"You have power over your mind - not outside events. Realize this, and you will find strength."*  
-— **Marcus Aurelius**
+<h3 align="center">Systems Architecture • Cybersecurity • Cognitive Optimization</h3>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%3E+Architecting+Resilient+Distributed+Systems;%3E+Dissecting+Network+Packets+%26+Raw+Sockets;%3E+Rewiring+The+Brain+Through+Deliberate+Code;%3E+Stoic+Discipline+%2B+Radical+Ownership" alt="Typing SVG" />
+</p>
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=samruhix&color=00d2ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/samruhix)
-[![GitHub Followers](https://img.shields.io/github/followers/samruhix?logo=github&style=flat-square&color=24292e)](https://github.com/samruhix)
-
----
-
-</div>
-
-### 🧠 Operating System & Focus
-
-I build software from first principles—exploring how operating systems, memory layouts, and network protocols interact under the hood. Currently documenting a 1-year transformation arc through the lens of Stoic philosophy, neuroplasticity, and technical craft.
-
-- 🛡️ **Cybersecurity**: Network reconnaissance, socket programming, vulnerability analysis, and security architecture.
-- ⚙️ **Systems**: Low-level machine architecture, operating systems, containerized environments, and cloud infrastructure.
-- 🔬 **Neuroscience**: Ultradian rhythms, cognitive stamina, active recall, and deliberate focus protocols.
-- 🎬 **Cinematography**: Directing a personal documentary (*"Rewired: One Year Inside"*) capturing the journey from ground zero to systems mastery.
+<p align="center">
+  <i>"Building systems from bare-metal memory to cloud architecture, guided by Stoic resilience and neuroscience."</i>
+</p>
 
 ---
 
-### 🛠️ Technical Arsenal
+<h2 align="center">🚀 About Me</h2>
+
+<img align="right" src="./assets/illustration.png" width="270" alt="Developer Illustration" />
+
+Hey! I'm **Sami**, a builder obsessed with **systems architecture**, **cybersecurity**, and understanding how computing machines operate under the hood.
+
+I learn by constructing the machine from first principles—from C pointers and raw sockets up to hardened containerized enclaves.
+
+Currently documenting a 1-year transformation through the lens of **Stoic philosophy, neuroplasticity, and technical craft** in a short documentary (*"Rewired: One Year Inside"*).
+
+- 🛡️ **Cybersecurity**: Network reconnaissance, socket programming, packet dissectors, and defense-in-depth architecture.
+- ⚙️ **Systems**: Low-level memory layouts (Stack vs Heap), OS syscalls, Linux, and Docker network isolation.
+- 🔬 **Neuroscience**: Ultradian rhythms, cognitive stamina, dopamine baseline regulation, and active-recall builds.
+- 🎬 **Filmmaking**: Directing, visual storytelling, and color grading in DaVinci Resolve.
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/samruhix">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:samisabil55@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack & Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,bash,powershell,docker,linux,git,github,vscode,aws" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Pulse</h2>
 
 <div align="center">
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| **Infrastructure & Cyber** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| **Creative & Production** | ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
-
+  <img src="https://streak-stats.demolab.com?user=samruhix&theme=city_lights&hide_border=false&border_radius=8" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=samruhix&show_icons=true&theme=city_lights&hide_border=false&border_radius=8" height="150"/>
 </div>
 
 ---
 
-### 📊 GitHub Pulse
+<h2 align="center">📈 Contribution Activity</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samruhix&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruhix&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samruhix&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph" width="95%"/>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🏛️ Operating Philosophy</h2>
 
-*"Waste no more time arguing what a good man should be. Be one."* — **Meditations X.16**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
 
-</div>
+<p align="center">
+  <i>"Waste no more time arguing what a good man should be. Be one."</i> — <b>Marcus Aurelius</b>
+</p>
