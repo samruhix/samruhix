@@ -79,56 +79,7 @@ Hey! I'm **Sami**, a Computer Science graduate with hands-on experience spanning
   <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="38" alt="n8n" />
 </p>
 
----
 
-<h2 align="center">📂 Featured Projects & Highlights</h2>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ SonoMap</h3>
-      <p><b>Interactive Audio Mapping Application</b></p>
-      <ul>
-        <li>Interactive geospatial audio visualization web application.</li>
-        <li>Built with <b>React</b>, <b>React Leaflet</b>, <b>Recharts</b>, and <b>Axios</b>.</li>
-        <li>Dynamic audio pinpointing, responsive UI, and custom sound playback pipelines.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📞 Laprophan Voice AI & Telephony</h3>
-      <p><b>Enterprise Telephony & Workflow Integration</b></p>
-      <ul>
-        <li>Integrated AI voice-agent pipelines using <b>Laravel REST APIs</b> and <b>n8n</b>.</li>
-        <li>Telephony handling via <b>Asterisk / PJSIP</b> and <b>OpenAI APIs</b>.</li>
-        <li>Automated intelligent call routing, prompt processing, and webhook responses.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ MaVille (SPTM)</h3>
-      <p><b>Object-Oriented City Services System</b></p>
-      <ul>
-        <li>Architected using <b>Java</b>, Gang of Four (GoF) design patterns, and UML modeling.</li>
-        <li>Structured persistence using <b>Jackson (JSON ↔ Java)</b>.</li>
-        <li>Comprehensive unit testing with <b>JUnit</b>, <b>Mockito</b>, and <b>JaCoCo</b> metrics.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/samruhix/my_scanner" style="text-decoration: none; color: inherit;">🛡️ Titan Net-Scan v3.0</a></h3>
-      <p><b>High-Performance Network Recon & Vulnerability Auditor</b></p>
-      <ul>
-        <li>Multi-threaded TCP security scanner built in <b>Python</b> with raw OS sockets.</li>
-        <li>Sweeps ports concurrently with <b>100+ worker threads</b> across customizable profiles (top25, web, databases, full).</li>
-        <li><b>Protocol-aware banner grabbing</b> (SSH, FTP, SMTP, TLS/HTTPS header extraction, Redis).</li>
-        <li><b>Automated security risk heuristics</b> (flags exposed databases, SMB lateral movement, plaintext protocols).</li>
-        <li>Exports structured audit findings to <b>Markdown & JSON</b> reports.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 <h2 align="center">🤝 Connect</h2>
 
