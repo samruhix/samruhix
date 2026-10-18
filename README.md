@@ -20,7 +20,6 @@ Hey! I'm **Sami**, a **Computer Science student** who loves to build things, exp
 
 - 🛠️ **Building & Creating**: Turning ideas into real apps and projects just to see them come to life.
 - 🧪 **Trying New Things**: Exploring different tools, technologies, and ways of solving problems.
-- 📚 **Always Learning**: Constantly curious and pushing myself to grow as a developer.
 
 <br clear="right"/>
 
