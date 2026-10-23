@@ -39,7 +39,7 @@ Hey! I'm **Sami**, a **Computer Science student** who loves to build things, exp
 
 ---
 
-<h2 align="center">🏛️ Operating Philosophy</h2>
+<h2 align="center">🏛️ Operating Philosophy </h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
