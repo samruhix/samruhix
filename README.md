@@ -39,7 +39,7 @@ Hey! I'm **Sami**, a **Computer Science student** who loves building software, e
 
 <p align="center">
   <a href="https://leetcode.com/u/sam_55/">
-    <img src="https://leetcard.jacoblin.cool/sam_55?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sam_55?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
   </a>
 </p>
 
