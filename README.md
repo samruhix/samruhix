@@ -23,15 +23,6 @@ Hey! I'm **Sami**, a **Computer Science student** who loves to build things, exp
 
 <br clear="right"/>
 
----
-
-<h2 align="center">🧩 LeetCode Stats</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/sam_55/">
-    <img src="https://leetcard.jacoblin.cool/sam_55?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ---
 
@@ -49,6 +40,15 @@ Hey! I'm **Sami**, a **Computer Science student** who loves to build things, exp
 
 ---
 
+
+<h2 align="center">🧩 LeetCode Stats</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sam_55/">
+    <img src="https://leetcard.jacoblin.cool/sam_55?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
+  </a>
+</p>
+---
 <h2 align="center">🏛️ Operating Philosophy </h2>
 
 <p align="center">
